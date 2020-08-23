@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jennyxie/Dropbox/School/2019-2020/COP3530/Proj3/XGW-combined.cpp
+iostream
+-
+string
+-
+fstream
+-
+map
+-
+
